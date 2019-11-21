@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/desktop.jpg</file>
+        <file>bullet.cpp</file>
+        <file>img/me.jfif</file>
+        <file>img/plasma-5-10-cascade-4k.png</file>
+        <file>img/images.jpeg</file>
+        <file>img/plane.jpeg</file>
+    </qresource>
+</RCC>
